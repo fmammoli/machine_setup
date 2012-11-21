@@ -11,8 +11,8 @@ Antes de executá-los adicione o modo de execução em cada um deles.
 
 Agora basta executá-los.
 
-    ./ubuntu-12.10/run_as_user.sh
     sudo ./ubuntu-12.10/run_as_root.sh
+    ./ubuntu-12.10/run_as_user.sh
 
 ## Resultado
 
